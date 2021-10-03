@@ -6,5 +6,7 @@ public class Third {
         System.out.println("This is my third try");
 
         // update something
+
+        // update again
     }
 }
